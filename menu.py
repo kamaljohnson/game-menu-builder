@@ -51,7 +51,7 @@ class Menu():
                 else:
                     blitBackground = False
                 if pos ==len(current_menu):
-                    blitBackground = True
+                    blitBackground = False
                     pos = len(current_menu) - 1
                 if pos<0:
                     blitBackground = False
