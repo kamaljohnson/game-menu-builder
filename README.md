@@ -11,3 +11,5 @@ This code is writen by keeping in mind that your main program has a screen updat
 but if your program has no screen updater you could just uncomment the update command in the program
 
 # screenshots
+![screenshot](menu_selection1.PNG?raw=true "menu_selection")
+![screenshot](menu_selection2.png?row=true "menu_selection")
