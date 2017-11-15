@@ -12,4 +12,4 @@ but if your program has no screen updater you could just uncomment the update co
 
 # screenshots
 ![screenshot](menu_selection1.PNG?raw=true "menu_selection")
-![screenshot](menu_selection2.png?row=true "menu_selection")
+![screenshot](menu_selection2.PNG?row=true "menu_selection")
